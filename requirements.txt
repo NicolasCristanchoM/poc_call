@@ -1,0 +1,10 @@
+Flask-SQLAlchemy
+flask-swagger-ui
+fastapi 
+uvicorn 
+python-dotenv 
+websockets 
+twilio
+flask-socketio
+gunicorn
+
